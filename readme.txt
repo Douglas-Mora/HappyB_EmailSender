@@ -1,4 +1,5 @@
 # ----------------- **Happy Birthday Email Sender**, by Douglas Mora
+# ----------------- Python code to send automatic emails to friends/family in their birthday.
 # ----------------- Questions? douglas-mora@outlook.com // github.com/Douglas-Mora
 # ----------------- The idea? It was taken from Dr. Angela Yu's Udemy's course...:
 # ----------------- 100 Days of Code - The Complete Python Pro Bootcamp for 2021
