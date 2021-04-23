@@ -1,8 +1,11 @@
 # ----------------- **Happy Birthday Email Sender**, by Douglas Mora
 # ----------------- Questions? douglas-mora@outlook.com // github.com/Douglas-Mora
+# ----------------- The idea? It was taken from Dr. Angela Yu's Udemy's course...:
+# ----------------- 100 Days of Code - The Complete Python Pro Bootcamp for 2021
 
 
-The purpose of this piece of code is having a list of persons' birthdays ("birthdays.csv"), it will 
+
+The purpose of this piece of code is, from a list of persons' birthdays ("birthdays.csv"), it will 
 validate, each day, if there are persons on their birthday, then it will send greeting emails to them.
 One out of three sample txt letters would be picked up and updated with the person's name, then the
 letter will be included as if the email's body. It also adds random quotes at the end of the email,
